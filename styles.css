@@ -11,3 +11,12 @@ h1{
   font-size: 50px;
   font-weight: 500;
 }
+
+
+div.container6 {
+  height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center }
+div.container6 p {
+  margin: 0 }
