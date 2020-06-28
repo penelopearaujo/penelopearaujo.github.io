@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background:#fafafa;
+    /* overflow-x: hidden; */
+    /* position: relative; */
+}
+
+
+h1{
+  color: black;
+  font-size: 50px;
+  font-weight: 500;
+}
